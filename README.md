@@ -4,6 +4,5 @@
 
 ``` cd bug-tools ```
 
-``` python3 subtakeover.py -f [subdomainfile] ```
-
+``` python3 subtakeover.py -f [subdomainfile.txt] ```
 
