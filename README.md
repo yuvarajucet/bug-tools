@@ -5,6 +5,9 @@
 ``` cd bug-tools ```
 
 ``` python3 subtakeover.py -f [subdomainfile.txt] ```
+### Example
+
+``` python3 subtakeover.py -f subdomains.txt```
 
 # Screenshot
 <img src="https://github.com/yuvarajucet/bug-tools/blob/main/example.png">
