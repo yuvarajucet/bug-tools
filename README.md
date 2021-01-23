@@ -1,6 +1,6 @@
 # bug-tools
 ### Subdomain Takeover tool
-``` git clone https://github.com/yuvarajucet/bug-tools.git ```
+``` git clone https://github.com/yuvarajucet/subdomain-takeover.git ```
 
 ``` cd bug-tools ```
 
