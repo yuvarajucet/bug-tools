@@ -10,7 +10,7 @@
 ``` python3 subtakeover.py -f subdomains.txt```
 
 # Screenshot
-<img src="https://github.com/yuvarajucet/bug-tools/blob/main/example.png">
+<img src="https://github.com/yuvarajucet/bug-tools/blob/main/example1.png">
 
 
 
