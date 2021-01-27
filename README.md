@@ -2,7 +2,7 @@
 ### Subdomain Takeover tool
 ``` git clone https://github.com/yuvarajucet/subdomain-takeover.git ```
 
-``` cd bug-tools ```
+``` cd subdomain-takeover ```
 
 ``` python3 subtakeover.py -f [subdomainfile.txt] ```
 ### Example
