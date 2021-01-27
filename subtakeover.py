@@ -109,5 +109,8 @@ def banner():
 if __name__ == "__main__":
     banner()
     print("\n\033[1;32m[+] Subdomain takeover started....\n \033[1;0m")
-    add_protocol(args.subfile)
+    if os.path.isfile(args.subfile):
+        add_protocol(args.subfile)
+    else:
+        print(f"\033[1;31m[ File Not Found ]\033[1;0m {args.subfile}")
     print("\n🔥\033[1;32m|------|💀Takeover Done💀|------|\033[1;0m🔥\n")
