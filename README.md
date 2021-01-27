@@ -13,6 +13,7 @@
 # Screenshot
 <img src="https://github.com/yuvarajucet/bug-tools/blob/main/example1.png">
 
-
+# Hint
+<i> <h1>Don't believe automation tools ,once verify manually</h1> </i>
 
 # Thank you
