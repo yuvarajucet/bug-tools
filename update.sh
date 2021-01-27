@@ -6,4 +6,4 @@ sudo rm -rf *
 echo "\033[1;32m [+] Cloning New files"
 sleep 2
 git clone https://github.com/yuvarajucet/subdomain-takeover.git
-sudo "\033[1;32m [+] Tool Updated success.."
+echo "\033[1;32m [+] Tool Updated success.."
