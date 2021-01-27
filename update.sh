@@ -10,4 +10,3 @@ sleep 2
 cd .. && git clone https://github.com/yuvarajucet/subdomain-takeover.git
 
 echo "\033[1;32m [+] Tool Updated success.."
-cd subdomain-takeover
