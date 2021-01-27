@@ -14,6 +14,6 @@
 <img src="https://github.com/yuvarajucet/bug-tools/blob/main/example1.png">
 
 # Hint
-<i> <h1>Don't believe automation tools, alwasy verify manually</h1> </i>
+<i> <h1>Don't believe automation tools, always verify manually</h1> </i>
 
 # Thank you
